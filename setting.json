@@ -1,0 +1,109 @@
+{
+    "profile": {
+        "name": "RIKI SHOP REAL",
+        "bio": "Web Developer | Content Creator",
+        "picture": "images.jpg",
+        "marquee": "✨ SELAMAT DATANG DI WEBSITE SAYA SEMOGA HARIMU MENYENANGKAN ✨",
+        "backgroundImage": "https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8?auto=format&fit=crop&q=80&w=2070"
+    },
+    
+    "audioFile": "musik.mp3",
+
+    "categories": [
+        {
+            "title": "Link Nomor",
+            "links": [
+                { 
+                    "name": "nomor utama", 
+                    "url": "https://wa.me/6285819066475", 
+                    "icon": "fab fa-whatsapp" 
+                },
+                { 
+                    "name": "nomor ke dua", 
+                    "url": "https://wa.me/6285771555374", 
+                    "icon": "fab fa-whatsapp" 
+                },
+                { 
+                    "name": "tele Admin Telegram", 
+                    "url": "https://t.me/rikishopreal", 
+                    "icon": "fab fa-telegram" 
+                }
+            ]
+        },
+        {
+            "title": "Link Sosmed",
+            "links": [
+                { 
+                    "name": "Instagram", 
+                    "url": "https://www.instagram.com/rikishopreal?igsh=eDFyYmJ3ZXU5dGtn", 
+                    "icon": "fab fa-instagram" 
+                },
+                { 
+                    "name": "TikTok", 
+                    "url": "https://tiktok.com/@riki_tampan_kata_mamah", 
+                    "icon": "fab fa-tiktok" 
+                },
+                { 
+                    "name": "YouTube", 
+                    "url": "https://www.youtube.com/@rikishopreal", 
+                    "icon": "fab fa-youtube" 
+                }
+            ]
+        },
+        {
+            "title": "Link Grup",
+            "links": [
+                { 
+                    "name": "ᴄᴜᴀɴ ʙᴀʀᴇɴɢ || ʀɪᴋɪ </>", 
+                    "url": "https://chat.whatsapp.com/KBryMU52RTlK57vrGnzCHN?mode=wwt", 
+                    "icon": "fas fa-users" 
+                },
+                { 
+                    "name": "MARKETPLACE || RIKI </>¹", 
+                    "url": "https://chat.whatsapp.com/FAhDR5pmOqx4MqNLrJldLo?mode=wwt", 
+                    "icon": "fas fa-users" 
+                },
+                { 
+                    "name": "MARKETPLACE || RIKI </>²", 
+                    "url": "https://chat.whatsapp.com/JN9VgJEnYSsHofUvJIw2OG?mode=wwt", 
+                    "icon": "fas fa-users" 
+                },
+                { 
+                    "name": "MARKETPLACE || RIKI </>³", 
+                    "url": "https://chat.whatsapp.com/Df8rTj6QekXG6toxTTf0Qx?mode=wwt", 
+                    "icon": "fas fa-users" 
+                }
+            ]
+        },
+        {
+            "title": "Link Saluran",
+            "links": [
+                { 
+                    "name": "[ Testimoni ] Riki Shop Real 🔵", 
+                    "url": "https://whatsapp.com/channel/0029VadvvgF6rsQljgBc7D1t", 
+                    "icon": "fas fa-bullhorn" 
+                },
+                { 
+                    "name": "MARKETPLACE  || RIKI SHOP 🛒", 
+                    "url": "https://whatsapp.com/channel/0029VanvUrHJZg41RjjGQ71P", 
+                    "icon": "fas fa-bullhorn" 
+                },
+                { 
+                    "name": "Rikishopreal Api || Information", 
+                    "url": "https://whatsapp.com/channel/0029Vay3uoZ8F2p6btxzND3A", 
+                    "icon": "fas fa-bullhorn" 
+                },
+                { 
+                    "name": "Information Seputar </>", 
+                    "url": "https://whatsapp.com/channel/0029Vb5qtoS5vKA62dUsch2A", 
+                    "icon": "fas fa-bullhorn" 
+                },
+                { 
+                    "name": "Testimoni Telegram", 
+                    "url": "https://t.me/rikishopreall", 
+                    "icon": "fas fa-bullhorn" 
+                }
+            ]
+        }
+    ]
+}
